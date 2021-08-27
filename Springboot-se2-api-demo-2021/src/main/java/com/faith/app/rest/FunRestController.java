@@ -21,7 +21,7 @@ public class FunRestController {
 	
 	//@RequestMapping("/")
 	public String index() {
-		return "Greetings from Faith Info Tech...:: CI/CD Integration";
+		return "Greetings from Faith Info Tech...:: CI/CD Integration TEST";
 	}
 	
 	
